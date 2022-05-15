@@ -1,0 +1,15 @@
+/home/oem/c#_basic/madlib_game/bin/Debug/net6.0/madlib_game
+/home/oem/c#_basic/madlib_game/bin/Debug/net6.0/madlib_game.deps.json
+/home/oem/c#_basic/madlib_game/bin/Debug/net6.0/madlib_game.runtimeconfig.json
+/home/oem/c#_basic/madlib_game/bin/Debug/net6.0/madlib_game.dll
+/home/oem/c#_basic/madlib_game/bin/Debug/net6.0/madlib_game.pdb
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.csproj.AssemblyReference.cache
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.AssemblyInfoInputs.cache
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.AssemblyInfo.cs
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.csproj.CoreCompileInputs.cache
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.dll
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/refint/madlib_game.dll
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.pdb
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/madlib_game.genruntimeconfig.cache
+/home/oem/c#_basic/madlib_game/obj/Debug/net6.0/ref/madlib_game.dll
