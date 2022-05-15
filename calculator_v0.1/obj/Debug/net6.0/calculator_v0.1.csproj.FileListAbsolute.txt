@@ -1,0 +1,15 @@
+/home/oem/app/calculator/calculator_v0.1/bin/Debug/net6.0/calculator_v0.1
+/home/oem/app/calculator/calculator_v0.1/bin/Debug/net6.0/calculator_v0.1.deps.json
+/home/oem/app/calculator/calculator_v0.1/bin/Debug/net6.0/calculator_v0.1.runtimeconfig.json
+/home/oem/app/calculator/calculator_v0.1/bin/Debug/net6.0/calculator_v0.1.dll
+/home/oem/app/calculator/calculator_v0.1/bin/Debug/net6.0/calculator_v0.1.pdb
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.csproj.AssemblyReference.cache
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.AssemblyInfoInputs.cache
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.AssemblyInfo.cs
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.csproj.CoreCompileInputs.cache
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.dll
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/refint/calculator_v0.1.dll
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.pdb
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/calculator_v0.1.genruntimeconfig.cache
+/home/oem/app/calculator/calculator_v0.1/obj/Debug/net6.0/ref/calculator_v0.1.dll
